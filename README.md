@@ -49,5 +49,5 @@
 
 <div align=center>
 <h3>📱 App View 📱</h3>
-  <img style="width:50%" src="" />
+  <img style="width:50%" src="https://github.com/Jeong-HanGyeol/pomodoro/blob/main/timer.gif" />
 </div>
